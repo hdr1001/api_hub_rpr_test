@@ -1,0 +1,31 @@
+{
+  "name": "api_hub_rpr_test",
+  "version": "1.0.0",
+  "description": "Test code for version 3 of API Hub Request Persist Respond",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hdr1001/api_hub_rpr_test.git"
+  },
+  "keywords": [
+    "API",
+    "Hub",
+    "Request",
+    "Persist",
+    "Respond",
+    "Test"
+  ],
+  "author": "Hans de Rooij",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/hdr1001/api_hub_rpr_test/issues"
+  },
+  "homepage": "https://github.com/hdr1001/api_hub_rpr_test#readme",
+  "dependencies": {
+    "limiter": "^1.1.5"
+  }
+}
